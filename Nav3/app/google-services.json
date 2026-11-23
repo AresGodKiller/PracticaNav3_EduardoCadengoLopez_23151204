@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652600618107",
+    "project_id": "navsam-85f0f",
+    "storage_bucket": "navsam-85f0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652600618107:android:e7e094f061e461d09d46de",
+        "android_client_info": {
+          "package_name": "com.example.navsamples"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI51eH5owchWSYhB7JkAxUChli2yJe44k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
